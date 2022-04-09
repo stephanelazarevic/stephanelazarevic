@@ -22,7 +22,7 @@ Here are some ideas to get you started:
   <p>Welcome to my Github profile !<br><br>
   👨🏻‍🎓 I’m currently learning IT at ENC Bessières School, Paris 17 and I'm looking for a job for my third year of study !<br>
   🙂 I hope you will like my work !</p>
-</div><br>
+</div>
 
 <div>
   <h3>💻 Languages and technologies</h2>
