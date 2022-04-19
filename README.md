@@ -31,8 +31,11 @@ Here are some ideas to get you started:
       • PHP<br>
       • SQL<br>
       • HTML/CSS<br>
+      • Javascript<br>
+      • Python<br>
       • Laravel<br>
-      • VueJs</p>
+      • VueJs<br>
+      • PHPUnit</p>
 </div>
 
 <div>
