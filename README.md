@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 <div>
   <p>Welcome to my Github profile !<br><br>
-  👨🏻‍🎓 I’m currently learning IT at ENC Bessières School, Paris 17 and I'm looking for a job for my third year of study !<br>
+  👨🏻‍🎓 I’m currently learning IT at ESGI, Paris 12 and I'm working in a company named SNCF Connect & Tech !<br>
   🙂 I hope you will like my work !</p>
 </div>
 
@@ -41,6 +41,6 @@ Here are some ideas to get you started:
 <div>
   <h3>📫 Contact</h2>
     <p>
-      • Email : <a href="mailto:stephane.lazarevic@enc-bessieres.org">stephane.lazarevic@enc-bessieres.org</a><br>
+      • Email : <a href="mailto:stephane.lazarevic@enc-bessieres.org">slazarevic@myges.fr</a><br>
       • Linkedin : <a href="https://fr.linkedin.com/in/stephane-lazarevic-0300571ab" target="_blank">LAZAREVIC Stephane</a>
 </div>
