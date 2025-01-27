@@ -35,6 +35,7 @@ Here are some ideas to get you started:
       • Python<br>
       • Laravel<br>
       • VueJs<br>
+      • Kotlin
       • PHPUnit</p>
 </div>
 
